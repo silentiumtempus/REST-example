@@ -1,0 +1,5 @@
+parameters:
+    user.name: john.doe
+    user.password: '123456'
+    user.api.token: c0c60e0e0d60bf2bf7c9daad8bf6bafd8d6473b6
+    teams.per.page.limit: 5
